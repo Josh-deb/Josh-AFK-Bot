@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FamiliFarmer.aternos.me
-Conectar",
+    "ip": "FamiliFarmer.aternos.me",
     "port": 53745,
     "version": "",
     "try-creative": false
